@@ -1,0 +1,61 @@
+#bannerimage{
+    background-image: url("intro-bg_1.jpg");
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 75px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background-size: cover;
+}
+.banner_content{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 15%;
+    margin-bottom: 20%;
+    margin-left: 20%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 670px;
+}
+
+footer{
+    margin-bottom: 0%;
+}
+.panel{
+    margin-top: 60px;
+    margin-bottom: 19px; 
+    border:1px solid black; 
+    height:31rem ;
+}
+
+.cardbody{
+    margin-top:15px;
+}
+
+#signupform{
+    margin-top: 80px;
+}
+
+#jumbo{
+    margin-top: 30px;
+    text-align: center;   
+}
+.figure{
+     border: 1px solid black;
+     border-bottom: 1px;
+     border-radius: 2%;
+ }
+
+table{
+    margin-top: 40px;
+    margin-left: 13%;
+}
+
+.table{
+    width: 70%;
+    justify-content: center;
+}
+    
+
